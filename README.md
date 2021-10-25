@@ -14,3 +14,4 @@ A simple planner or calendar that allows a user to save events for each hour of 
 * Font Awesome
 
 ## Website
+https://adamkmccoy.github.io/Work-Day-Scheduler/
